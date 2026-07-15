@@ -1,6 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/chiku0210/chiku0210/main/assets/icon.svg",
-  "removeBackground": true,
+  "removeBackground": false,
   "imageScale": 1,
   "sections": [
     {
