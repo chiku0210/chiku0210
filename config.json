@@ -1,0 +1,45 @@
+{
+  "image": "https://raw.githubusercontent.com/chiku0210/chiku0210/main/assets/profile.jpg",
+  "removeBackground": true,
+  "imageScale": 1,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Stack", "value": "Node.js, TypeScript, PostgreSQL, AWS" },
+        { "key": "IDE", "value": "VSCode" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Focus.Backend", "value": "Distributed systems, APIs" },
+        { "key": "Focus.AI", "value": "Agentic AI systems" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Forks", "value": "{{forks}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}

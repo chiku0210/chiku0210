@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=chiku0210) 
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=chiku0210&config=https%3A%2F%2Fraw.githubusercontent.com%2Fchiku0210%2Fchiku0210%2Fmain%2Fconfig.json)
