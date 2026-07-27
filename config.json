@@ -27,8 +27,8 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" }
+        { "key": "Email", "value": "contact@nielless.com" },
+        { "key": "Website", "value": "https://nielless.com" }
       ]
     }
   ],
